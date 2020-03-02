@@ -1,0 +1,3 @@
+# hostname
+# hostname:443
+telkomsel.ddns.net:443
